@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(59,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(107,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(317,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(573,20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(160): warning C4715: 'tay::functions::checkUsernameExist': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(185): warning C4715: 'tay::functions::UsernameLineNumber': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(251): warning C4715: 'tay::functions::getNameOfUser': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(307): warning C4715: 'tay::functions::checkTripIDExist': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(361): warning C4715: 'tay::functions::tripIDLineNumber': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(507): warning C4715: 'tay::functions::UsernameLineNumberr': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(649): warning C4715: 'tay::functions::reservelinenumber': not all control paths return a value
+D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\FirstTrial\Header.h(912): warning C4715: 'tay::functions::max_no_check': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FirstTrial.vcxproj -> D:\FCIS\1st Year\2nd Semester\Structure Programming\Project\Trials\Last Trial - Copy\x64\Debug\FirstTrial.exe
